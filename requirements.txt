@@ -1,0 +1,10 @@
+pyttsx3
+speechrecognition
+pyautogui
+requests
+newsapi-python
+paho-mqtt
+pvporcupine
+openai
+opencv-python
+pyaudio
